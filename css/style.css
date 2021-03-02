@@ -1,0 +1,10 @@
+body{
+	background:cyan;
+
+}
+h1{
+	color: black;
+}
+.container-fluid{
+	border: 40px solid indigo;
+}
